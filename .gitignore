@@ -1,0 +1,5 @@
+*.txt
+*.log
+cert.key
+fullchain.cer
+dhparam.pem
